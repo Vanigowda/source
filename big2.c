@@ -12,7 +12,7 @@ if(num1>num2)
 
 {
 
-printf("\n%d is the biggest number\n",num1);
+printf("\n%d is the big number\n",num1);
 
 }
 
@@ -20,7 +20,7 @@ else
 
 {
 
-printf("\n%d is the biggest number\n",num2);
+printf("\n%d is the big number\n",num2);
 
 }
 
